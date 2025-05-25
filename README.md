@@ -14,7 +14,7 @@ The goal is to predict the species:
 - Versicolor
 - Virginica
 
-Features
+Features:
 - Data exploration and visualization using seaborn pairplots
 - Data preprocessing with train-test split and feature scaling
 - Logistic Regression classification model
