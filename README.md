@@ -1,4 +1,4 @@
-# iris species classification
+# Iris Species Classification
 
 builds a simple machine learning model to classify iris flowers into three species based on their physical features. It uses Python, scikit-learn, and visualizes results with seaborn and matplotlib.
 
